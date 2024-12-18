@@ -1,0 +1,4 @@
+1,Blood tests,Nurse,
+2,Tomography,Doctor,
+3,X-ray,Nurse,
+4,Cardiology,Cardiologist,

@@ -1,0 +1,12 @@
+1,1,Complete Blood Count,Nurse,100.08
+1,2,Blood group test,Nurse,100.0
+1,3,Rh-factor analysis,Nurse,150.0 
+2,4,Magnetic resonance spectroscopy,Doctor,900.0
+2,5,Functional MRI,Doctor,800.0
+2,6,Thermometry MRI,Doctor,850.0
+3,7,X-ray,Nurse,250.0
+3,8,Fluorography,Nurse,200.0
+3,8,Ultrasound,Nurse,900.0
+4,9,Consultation,Cardiologist,350.0
+4,10,Echocardiography,Cardiologist,500.0
+4,11,Monitoring of heart function,Cardiologist,700.0
